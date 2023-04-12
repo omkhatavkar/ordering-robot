@@ -1,0 +1,107 @@
+{
+    "16797740113094": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "1679774011309"
+    },
+    "16798247410625": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "1679824741062"
+    },
+    "1679824854719": {
+        "screenshot": ".images\\1679824854719-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "1679824854719"
+    },
+    "Address5": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "Btndark": {
+        "screenshot": ".images\\btndark-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-dark"
+    },
+    "Btndark1": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-dark"
+    },
+    "Formgroupnthchild3": {
+        "screenshot": ".images\\formgroupnthchild3-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "1679824854719"
+    },
+    "Head2": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "head"
+    },
+    "Idbody33": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "id-body-3"
+    },
+    "Inputclassformcontrolandtypenumber": {
+        "screenshot": ".images\\inputclassformcontrolandtypenumber-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@class='form-control' and @type='number']"
+    },
+    "Inputname1679824854719": {
+        "screenshot": ".images\\inputname1679824854719-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@name='1679824854719']"
+    },
+    "InputplaceholderEnterthepartnumberforthelegs": {
+        "screenshot": ".images\\inputplaceholderenterthepartnumberforthelegs-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//input[@placeholder='Enter the part number for the legs']"
+    },
+    "Order": {
+        "screenshot": ".images\\order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "Order6": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "Orderanother": {
+        "screenshot": ".images\\orderanother-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order-another"
+    }
+}
